@@ -1,0 +1,2 @@
+# konashop
+🚀 Deployed via Bot
